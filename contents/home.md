@@ -12,5 +12,5 @@ M.S., Aircraft Design and Engineering, Fudan University, 2025—2028 (expected).
 B.E., Mechanical Engineering and Automation, Shantou University, 2021—2025.
 
 #### Research Interests
-Artificial Intelligence, Reliability Engineering， Mechatronics，Structural Design， Robot
+Artificial Intelligence, Reliability Engineering，Mechatronics，Structural Design，Robot
 
