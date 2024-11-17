@@ -2,7 +2,8 @@
 
 [![liamlcj](https://img.shields.io/badge/liamlcj-github-blue?logo=github)](https://github.com/liamlcj)
 
-He is currently pursuing a Master's Degree in Aircraft Design and Engineering, at Fudan University, China.
+[B站](https://space.bilibili.com/392388849?spm_id_from=333.1007.0.0)
+[CSDN](https://blog.csdn.net/liam_lcj?spm=1000.2115.3001.5343)
 
 #### Email
 21cjliang@stu.edu.cn
@@ -12,5 +13,5 @@ M.S., Aircraft Design and Engineering, Fudan University, 2025—2028 (expected).
 B.E., Mechanical Engineering and Automation, Shantou University, 2021—2025.
 
 #### Research Interests
-Artificial Intelligence, Reliability Engineering，Mechatronics，Structural Design，Robot
+Artificial Intelligence, Reliability Engineering, Mechatronics, Structural Design, Robot
 
